@@ -1,0 +1,4 @@
+pub  2048R/EA6B60C6 2014-05-01 Jeremy Villegas <jbvillegas@gmail.com>
+ Primary key fingerprint: 1CA7 03C4 1C1B 2A9F 962C  117F 7B6A 4F18 0959 0988
+       Subkey fingerprint: 906D C4C1 26E3 7A0C 5C58  F492 147A E58A EA6B 60C6
+
