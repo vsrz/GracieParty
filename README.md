@@ -1,4 +1,4 @@
-GracieParty
-===========
+Gracie Party
+============
 
-Gracie's Party Site
+RSVP site
